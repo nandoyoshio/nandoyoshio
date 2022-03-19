@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   <a href = "mailto:fernando.kobata@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div><!--fim contatos-->
   
+ <!--Começo efeito snak-->
+  
+ ![Snake animation](https://github.com/nandoyoshio/nandoyoshio/blob/output/github-contribution-grid-snake.svg)
+  
 <!--GitStats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoyoshio)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoyoshio&hide=contribs,prs)
